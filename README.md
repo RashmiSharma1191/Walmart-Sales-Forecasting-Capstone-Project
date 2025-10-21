@@ -11,7 +11,7 @@ The goal of this project is to forecast store sales for the next 12 weeks using 
 By analyzing time-based data, holiday effects, fuel prices, and the Consumer Price Index (CPI), this project aims to assess how temporal and external factors influence Walmart’s sales performance.
 
 **📂 Project Notebook:**  
-[Download Walmart Sales Forecasting Notebook](https://github.com/RashmiSharma1191/Walmart-Sales-Forecasting-Capstone-Project/raw/main/WALMART%20CAPSTONE%20PROJECT.ipynb)
+[Open Walmart Sales Forecasting Notebook in Google Colab](https://colab.research.google.com/drive/194SeuMteUuMshYctXeTeK343iyVYN28g?usp=sharing)
 
 ## 🧾 Data Description
 
