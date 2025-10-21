@@ -10,9 +10,6 @@ This project focuses on using data-driven techniques to predict future sales and
 The goal of this project is to forecast store sales for the next 12 weeks using machine learning techniques.
 By analyzing time-based data, holiday effects, fuel prices, and the Consumer Price Index (CPI), this project aims to assess how temporal and external factors influence Walmart’s sales performance.
 
-**📂 Project Notebook:**  
-[Open Walmart Sales Forecasting Notebook in Google Colab](https://colab.research.google.com/drive/194SeuMteUuMshYctXeTeK343iyVYN28g?usp=sharing)
-
 ## 🧾 Data Description
 
 The dataset includes historical weekly sales data from 45 Walmart stores, with features such as:
