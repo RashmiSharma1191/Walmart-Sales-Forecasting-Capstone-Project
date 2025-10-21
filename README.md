@@ -1,4 +1,4 @@
-# Walmart-Sales-Forecasting-Capstone-Project
+# 🏪 Walmart-Sales-Forecasting-Capstone-Project
 
 ## 📌 Problem Statement
 
@@ -42,11 +42,11 @@ The available dataset provides limited context for fully capturing real-world dy
 The project applies time-series forecasting models using historical sales data for each store.
 Techniques include:
 
-Data preprocessing and feature engineering
+Data preprocessing and feature engineering,
 
-Training models on store-level data
+Training models on store-level data,
 
-Evaluating results through visualization of training vs. test data and confidence intervals
+Evaluating results through visualization of training vs. test data and confidence intervals,
 
 These techniques help capture seasonality, trends, and random variations influencing sales.
 
@@ -67,9 +67,7 @@ Deploying a dashboard or web app to visualize real-time sales forecasts for each
 ## 📊 Visualization
 
 Visual analysis includes:
-
-Graphs comparing training data, actual test data, and forecasts.
-Confidence intervals for visualizing model reliability and accuracy.
+Graphs comparing training data, actual test data, and forecasts. Confidence intervals for visualizing model reliability and accuracy.
 
 ## 🧾 References
 
