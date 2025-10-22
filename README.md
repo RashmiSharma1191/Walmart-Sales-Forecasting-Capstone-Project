@@ -13,16 +13,11 @@ By analyzing time-based data, holiday effects, fuel prices, and the Consumer Pri
 ## 🧾 Data Description
 
 The dataset includes historical weekly sales data from 45 Walmart stores, with features such as:
-
-Store locations
-
-Weekly sales data
-
-Special events and holidays
-
-CPI (Consumer Price Index)
-
-Fuel prices
+- Store locations
+- Weekly sales data
+- Special events and holidays
+- CPI (Consumer Price Index)
+- Fuel prices
 
 This dataset helps uncover patterns, trends, and anomalies that affect sales, allowing Walmart to plan inventory more efficiently and reduce stockouts.
 
@@ -41,12 +36,9 @@ The available dataset provides limited context for fully capturing real-world dy
 
 The project applies time-series forecasting models using historical sales data for each store.
 Techniques include:
-
-Data preprocessing and feature engineering,
-
-Training models on store-level data,
-
-Evaluating results through visualization of training vs. test data and confidence intervals,
+- Data preprocessing and feature engineering,
+- Training models on store-level data,
+- Evaluating results through visualization of training vs. test data and confidence intervals.
 
 These techniques help capture seasonality, trends, and random variations influencing sales.
 
@@ -67,6 +59,7 @@ Deploying a dashboard or web app to visualize real-time sales forecasts for each
 ## 📊 Visualization
 
 Visual analysis includes:
+
 Graphs comparing training data, actual test data, and forecasts. Confidence intervals for visualizing model reliability and accuracy.
 
 ## 🧾 References
@@ -78,5 +71,11 @@ YouTube Tutorials
 GitHub Repositories
 
 Medium Blogs & Data Science Articles
+
+## 👩‍💻 Author
+**Rashmi Sharma**  
+📧 [Mail ID](rashusharma007@gmail.com)
+
+🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
 
 
