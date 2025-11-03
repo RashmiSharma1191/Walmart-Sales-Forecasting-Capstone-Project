@@ -74,8 +74,9 @@ Medium Blogs & Data Science Articles
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
-📧 [Mail ID](rashusharma007@gmail.com)
 
-🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
 
 
