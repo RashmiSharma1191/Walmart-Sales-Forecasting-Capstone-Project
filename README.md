@@ -23,8 +23,7 @@ This dataset helps uncover patterns, trends, and anomalies that affect sales, al
 
 ## ⚙️ Algorithm and Motivation
 
-The selection of algorithms depends on the type of forecasting problem.
-Since this is a time-series forecasting problem, the project explores machine learning and statistical models that capture temporal trends, seasonality, and the impact of external variables.
+The project utilizes the SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous factors) model from the statsmodels library. SARIMAX was chosen because it is highly effective for retail sales forecasting, allowing the model to capture complex weekly seasonality and long-term trends while simultaneously integrating the influence of external economic variables (like Fuel Prices and CPI) and holiday events.
 
 ## 🧠 Assumptions
 
@@ -42,25 +41,29 @@ Techniques include:
 
 These techniques help capture seasonality, trends, and random variations influencing sales.
 
-## 📈 Inferences
+## 🏆 Key Insights & Business Impact
 
-Machine learning enables pattern recognition and trend detection from historical sales data.
-Predictive analytics enhances accuracy by identifying factors such as holidays, weather, and seasonality.
-Insights can be applied to inventory optimization, marketing planning, and demand management.
-
+The predictive analysis generated these actionable insights for operational improvement:
+- Peak Seasonality: Sales are highly concentrated in Weeks 47 and 51 (Thanksgiving and Christmas), necessitating maximum inventory and staffing during these periods.
+- Store Performance: Store 20 and Store 4 show the highest average weekly sales, providing benchmarks for operational best practices to be replicated across the chain.
+- Economic Sensitivity: A clear negative correlation was observed between Unemployment Rate and weekly sales, suggesting inventory should be managed conservatively in economically strained regions.
+- Post-Holiday Drop: Sales drop significantly in January following the peak Q4 season. Action: Targeted clearance promotions are recommended in January to manage inventory backlog.
+- Annual Trend: While overall sales might have peaked in 2010, the consistency of sales growth in 2012 (even without the best months) suggests underlying stability. Action: Focus should be on relative YoY growth in the first 10 months to gauge true performance.
+  
 ## 🚀 Future Scope
 
 Potential extensions include:
 
-Implementing models like Regression, Decision Trees, Neural Networks, and Time Series Models such as SARIMA, SARIMAX, or Auto-ARIMA.
-Incorporating external datasets (customer demographics, regional events, promotions).
-Deploying a dashboard or web app to visualize real-time sales forecasts for each store.
+- Incorporating advanced Deep Learning models (e.g., LSTMs) for enhanced long-term prediction accuracy.
+- Integrating external datasets such as local competitor data and regional promotional calendars for richer context.
+- Deploying a dashboard or web app to visualize real-time sales forecasts for each store manager.
 
 ## 📊 Visualization
 
 Visual analysis includes:
-
 Graphs comparing training data, actual test data, and forecasts. Confidence intervals for visualizing model reliability and accuracy.
+(https://github.com/RashmiSharma1191/Walmart-Sales-Forecasting-Capstone-Project/blob/main/SARIMA%20TRAINED%20GRAPH.png)
+(Note: The visualization above shows the model's fit on historical data and the 12-week forecast with its 95% confidence bounds.)
 
 ## 🧾 References
 
