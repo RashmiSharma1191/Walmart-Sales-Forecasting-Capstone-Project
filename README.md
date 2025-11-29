@@ -62,7 +62,8 @@ Potential extensions include:
 
 Visual analysis includes:
 Graphs comparing training data, actual test data, and forecasts. Confidence intervals for visualizing model reliability and accuracy.
-(https://github.com/RashmiSharma1191/Walmart-Sales-Forecasting-Capstone-Project/blob/main/SARIMA%20TRAINED%20GRAPH.png)
+[Graph](https://github.com/RashmiSharma1191/Walmart-Sales-Forecasting-Capstone-Project/blob/main/SARIMA%20TRAINED%20GRAPH.png)
+
 (Note: The visualization above shows the model's fit on historical data and the 12-week forecast with its 95% confidence bounds.)
 
 ## 🧾 References
