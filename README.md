@@ -67,14 +67,10 @@ Graphs comparing training data, actual test data, and forecasts. Confidence inte
 (Note: The visualization above shows the model's fit on historical data and the 12-week forecast with its 95% confidence bounds.)
 
 ## 🧾 References
-
-Kaggle Datasets
-
-YouTube Tutorials
-
-GitHub Repositories
-
-Medium Blogs & Data Science Articles
+- Kaggle Datasets
+- YouTube Tutorials
+- GitHub Repositories
+- Medium Blogs & Data Science Articles
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
